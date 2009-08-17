@@ -65,7 +65,7 @@ Preferred way is to [install this firefox extension][firelogger] via addons.mozi
 
 ## FAQ
 
-#### What is the difference between FireLogger and FirePHP?
+#### What is the difference between FireLogger and [FirePHP](http://www.firephp.org/)?
 > Initially I've written [FireLogger for Python](http://firepython.binaryage.com) because I was doing some Google App Engine development. Recently I was asked to do some PHP development. I've tried FirePHP, it worked for me, but it wasn't "pixel perfect" to fit my personal taste :-) I'm a javascript guy quite opinionated about tools. I wanted flexible dirty logging function which is capable of eating whatever I throw into it (like firebug's console.log). I also prefer to have server-side logger console separated from javascript console in Firebug. I prefer reusing firebug's internal components for variables inspection. FireLogger has the same look&feel as javascript console (you can drill down watches firebug-way, same fonts and colors, etc.). FireLogger has also some advanced features which may be handy (password protection, "open in text editor" and production paths remapping).
 
 #### Clicking on source-file links in Logger panel does nothing. How can I open trace-back sources in TextMate?
