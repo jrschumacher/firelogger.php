@@ -22,19 +22,20 @@ overlaycy: 10px
 
 <div class="advertisement">
 	<div class="plug">Recommended reading:</div>
-	<a href="http://www.amazon.com/gp/product/0596009259?ie=UTF8&tag=firepython-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596009259"><img border="0" src="/shared/img/amazon/41QbTFszYTL._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firepython-20&l=as2&o=1&a=0596009259" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 	
-	<a href="http://www.amazon.com/gp/product/0596158068?ie=UTF8&tag=firepython-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596158068"><img border="0" src="/shared/img/amazon/41Mu5RWG-1L._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firepython-20&l=as2&o=1&a=0596158068" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+	<a href="http://www.amazon.com/gp/product/1590598199?ie=UTF8&tag=firelogger4php-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1590598199"><img border="0" src="/shared/img/amazon/513JapFT6KL._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firelogger4php-20&l=as2&o=1&a=1590598199" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-	<a href="http://www.amazon.com/gp/product/0596007973?ie=UTF8&tag=firepython-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596007973"><img border="0" src="/shared/img/amazon/41S-nPeF89L._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firepython-20&l=as2&o=1&a=0596007973" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+	<a href="http://www.amazon.com/gp/product/1590598628?ie=UTF8&tag=firelogger4php-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1590598628"><img border="0" src="/shared/img/amazon/51U99xGeW9L._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firelogger4php-20&l=as2&o=1&a=1590598628" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+	<a href="http://www.amazon.com/gp/product/0596006810?ie=UTF8&tag=firelogger4php-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596006810"><img border="0" src="/shared/img/amazon/418Jm7c3-eL._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firelogger4php-20&l=as2&o=1&a=0596006810" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+	<a href="http://www.amazon.com/gp/product/0596005431?ie=UTF8&tag=firelogger4php-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596005431"><img border="0" src="/shared/img/amazon/51OMiIEUnTL._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firelogger4php-20&l=as2&o=1&a=0596005431" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 	
-	<a href="http://www.amazon.com/gp/product/1430210478?ie=UTF8&tag=firepython-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1430210478"><img border="0" src="/shared/img/amazon/516STCBRnOL._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firepython-20&l=as2&o=1&a=1430210478" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-	
-	<a href="http://www.amazon.com/gp/product/059652272X?ie=UTF8&tag=firepython-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=059652272X"><img border="0" src="/shared/img/amazon/513CiT5BtYL._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firepython-20&l=as2&o=1&a=059652272X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-	
+	<a href="http://www.amazon.com/gp/product/0596527322?ie=UTF8&tag=firelogger4php-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596527322"><img border="0" src="/shared/img/amazon/41SbEZIgguL._SL110_.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=firelogger4php-20&l=as2&o=1&a=0596527322" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 	<div class="offer"><a href="mailto:antonin@binaryage.com">advertise here</a></div>
 </div>
-<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=firepython-20&o=1">
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=firelogger4php-20&o=1">
 </script>
 
 ## Features
@@ -91,6 +92,7 @@ Preferred way is to [install this firefox extension][firelogger] via addons.mozi
 ### Sites
 
 * **[FirePython](http://firepython.binaryage.com)** - original logging project
+* **[FirePHP](http://firephp.org)** - alternative logging tool, you should check it out!
 
 ### Also thanks to
 
