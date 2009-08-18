@@ -5,7 +5,7 @@ layout: product
 icon: /shared/img/firelogger4php-icon.png
 repo: http://github.com/darwin/firelogger4php
 support: http://github.com/darwin/firelogger4php/issues
-downloadtitle: Install v0.1
+downloadtitle: Install v0.6
 download: https://addons.mozilla.org/en-US/firefox/addon/11090
 downloadboxwidth: 210px
 donate: https://addons.mozilla.org/en-US/firefox/addons/contribute/11090?source=addon-detail
@@ -47,11 +47,24 @@ overlaycy: 10px
   * production paths remapping
   * and more ...
 
-### Compatibility
+### Checkout also [FireLogger for Python](http://firepython.binaryage.com)
 
-* **Version 0.1** works with:
+### Compatibility with FireLogger extension
+
+* **Version 0.6** works with:
+  * alpha Firebug 1.5 + Firefox 3.5
+  * Firebug 1.4.2 + Firefox 3.5
+* **Version 0.5** works with:
   * beta Firebug 1.4 + Firefox 3.0.x or Firefox 3.5
   * does not work with Firebug 1.3 and older!
+* **Version 0.4** works with:
+  * Firebug 1.3 + Firefox 3.1 
+  * Firebug 1.2.1 + Firefox 3.0.4. 
+  * does not work with Firebug 1.4 alpha!
+* **Version 0.3** works with:
+  * Firebug 1.3 + Firefox 3.1 
+  * Firebug 1.2.1 + Firefox 3.0.4. 
+* **Version 0.2** is tested to work with alpha Firebug 1.3 and Firefox 3.1.
 
 ## Installation
 
@@ -70,6 +83,12 @@ Preferred way is to [install this firefox extension][firelogger] via addons.mozi
 #### What is the difference between FireLogger and [FirePHP](http://www.firephp.org/)?
 > Initially I've written [FireLogger for Python](http://firepython.binaryage.com) because I was doing some Google App Engine development. Recently I was asked to do some PHP development. I've tried FirePHP, it worked for me, but it wasn't "pixel perfect" to fit my personal taste :-) I'm a javascript guy quite opinionated about tools. I wanted flexible dirty logging function which is capable of eating whatever I throw into it (like firebug's console.log). I also prefer to have server-side logger console separated from javascript console in Firebug. I prefer reusing firebug's internal components for variables inspection. FireLogger has the same look&feel as javascript console (you can drill down watches firebug-way, same fonts and colors, etc.). FireLogger has also some advanced features which may be handy (password protection, "open in text editor" and production paths remapping).
 
+#### Is there something similar for Python?
+> Check out [FireLogger for Python](http://firepython.binaryage.com)
+
+#### Is there something similar for Ruby?
+> Nope. I'd like to have one, but didn't find time to write server-side support. You are welcome to [hack it](http://wiki.github.com/darwin/firelogger)!
+
 #### Clicking on source-file links in Logger panel does nothing. How can I open trace-back sources in TextMate?
 > Go to Firebug Menu -> Open With Editor -> Configure editors ... like this: ![TextMate hint][textmate-hint]
 
@@ -85,6 +104,7 @@ Preferred way is to [install this firefox extension][firelogger] via addons.mozi
 ## History
 
 * **v0.1** (17.08.2009)
+  * [[darwin][darwin]] compatibility with FireLogger 0.6
   * [[darwin][darwin]] initial implementation, supports basic logging
 
 ## Links
