@@ -5,7 +5,7 @@ layout: product
 icon: /shared/img/firelogger4php-icon.png
 repo: http://github.com/darwin/firelogger4php
 support: http://github.com/darwin/firelogger4php/issues
-downloadtitle: Install v0.6
+downloadtitle: Install v0.7
 download: https://addons.mozilla.org/en-US/firefox/addon/11090
 downloadboxwidth: 210px
 donate: https://addons.mozilla.org/en-US/firefox/addons/contribute/11090?source=addon-detail
